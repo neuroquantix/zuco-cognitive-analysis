@@ -16,7 +16,7 @@ You can test the final model live on Hugging Face Spaces. Click the image below 
 
 
 <a href="https://edaaaydinea-zuco-cognitive-analyzer.hf.space" target="_blank">
-  <img src="https://neuroquantix.tech/wp-content/uploads/2025/07/image-4.png" alt="Interactive Demo Screenshot" width="850">
+  <img src="https://neuroquantix.org/wp-content/uploads/2025/07/image-4.png" alt="Interactive Demo Screenshot" width="850">
 </a>
 <p align="center"><em>Click the image to try the interactive demo!</em></p>
 
@@ -90,4 +90,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-NeuroQuantix - info@neuroquantix.tech
+NeuroQuantix - info@neuroquantix.org
